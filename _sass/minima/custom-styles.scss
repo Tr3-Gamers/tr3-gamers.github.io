@@ -8,3 +8,17 @@ img {
 .site-header {
     border-top: none;
 }
+
+.site-title {
+    @include relative-font-size(3);
+    text-align: center;
+    float: none;
+}
+
+.site-header-icon {
+    max-height: 54px;
+    margin-right: 1rem;
+    vertical-align: top;
+    filter: drop-shadow(0px 0px 8px #000);
+    margin-top: 5px;
+}
