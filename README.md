@@ -3,6 +3,10 @@
 
 # Tr3 Gamers
 
+Tr3 Gamers is a gaming club for the students of Tampere University and Tampere
+University of Applied Sciences! We organize events and gaming sessions for
+a variety of games and help stream other clubs' events to the masses.
+
 ## Smash Bros 
 
 T3G has a long history in Smash! We have been organizing large scale tournaments like
@@ -36,7 +40,7 @@ during Wappu, LAN events and tournaments.
 
 We have a large amount of streaming gear at our clubroom, as well as the
 know-how for organizing livestreams for students events! Contact us at
-tr3gamersry (at) gmail.com if you're interested this kind of services.
+tr3gamersry (at) gmail.com if you're interested in this kind of services.
 
 # Find us on campus!
 

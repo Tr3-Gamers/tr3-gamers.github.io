@@ -1,8 +1,8 @@
 remote_theme: jekyll/minima
 title: Tr3 Gamers ry
-description: The gaming & streaming club of Tampere Universities
+description: Tr3 Gamers - The gaming & streaming club of Tampere Universities
 minima:
-  skin: classic
+  skin: dark
   social_links:
     - { platform: discord, user_url: "https://discord.gg/dHgkbBa" }
     - { platform: telegram, user_url: "https://t.me/tr3gamers" }
