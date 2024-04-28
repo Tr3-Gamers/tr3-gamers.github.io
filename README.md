@@ -1,6 +1,3 @@
-
-![logo](assets/android-chrome-512x512.png)
-
 # Tr3 Gamers
 
 Tr3 Gamers is a gaming club for the students of Tampere University and Tampere

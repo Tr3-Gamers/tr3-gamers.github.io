@@ -20,5 +20,13 @@ img {
     margin-right: 1rem;
     vertical-align: top;
     filter: drop-shadow(0px 0px 8px #000);
-    margin-top: 5px;
+    margin-top: 0;
+    margin-left: 0;
+    display: inline;
+}
+
+.center-wrapper {
+    margin-top: 10px;
+    display: inline-block;
+    text-align: center;
 }
