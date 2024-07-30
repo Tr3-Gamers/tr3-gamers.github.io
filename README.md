@@ -47,3 +47,13 @@ end of a large empty hall (the area where sitsi's are held).
 
 If in doubt, wait at the [ramp outside](https://maps.app.goo.gl/bWa6XuF3Z9Hs6DSx8)
 and ping @hallitus on Discord to come open the door for you.
+
+# Clubroom calendar
+
+Here you can find our clubroom's reservation status.
+
+🟢 = Open doors, welcome!
+
+🟡 = Only come if you have a key.
+
+🔴 = Closed door reservation, visit only briefly if absolutely necessary.
