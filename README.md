@@ -50,7 +50,7 @@ and ping @hallitus on Discord to come open the door for you.
 
 # Clubroom calendar
 
-Here you can find our clubroom's reservation status.
+Here you can find our clubroom's reservation status. Reservation type is marked with an emoji:
 
 🟢 = Open doors, welcome!
 
