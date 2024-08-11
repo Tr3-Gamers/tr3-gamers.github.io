@@ -4,6 +4,8 @@ Tr3 Gamers is a gaming club for the students of Tampere University and Tampere
 University of Applied Sciences! We organize events and gaming sessions for
 a variety of games and help stream other clubs' events to the masses.
 
+[**Join us now!**](https://holvi.com/shop/tr3gamers/product/c23bc0b7da96a52f7adcfc408b88798c/) Our membership fee is 5€ per year.
+
 ## Smash Bros 
 
 T3G has a long history in Smash! We have been organizing large scale tournaments like
