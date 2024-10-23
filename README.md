@@ -43,12 +43,11 @@ tr3gamersry (at) gmail.com if you're interested in this kind of services.
 
 # Find us on campus!
 
-Our clubroom resides in the bomb shelter of Tampere University's Hervanta campus.
-It's a black door with our logo on it, next to a bunch of gray lockers, in the
-end of a large empty hall (the area where sitsi's are held).
+Our clubroom is currently moving to a temporary space. The old clubroom
+in Bommari has mold damage. The new temporary space is FB322, Festia,
+Hervanta.
 
-If in doubt, wait at the [ramp outside](https://maps.app.goo.gl/bWa6XuF3Z9Hs6DSx8)
-and ping @hallitus on Discord to come open the door for you.
+We'll likely be getting a more permanent clubroom again sometime next year.
 
 # Clubroom calendar
 
