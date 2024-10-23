@@ -13,7 +13,8 @@ Bob-Omb Battlefield and [Smash Sauna](https://twitter.com/SmashSauna). We also
 have monthlies at our clubroom!
 
 The **monthlies are typically held on the first Tuesday of the month 17.00-22.00**, see #tampere
-in [Smash Finland's Discord](https://smashfinland.fi/) for registration each month.
+in [Smash Finland's Discord](https://smashfinland.fi/) for registration each month. Currently,
+they are on hiatus due to a *situation* at our clubroom.
 
 ## Dancing games
 
@@ -22,9 +23,11 @@ We do that here! We primarily play with ITGMania. The clubroom has two modded
 pads, a big 120 fps screen, and a massive fan for cooling. Bring your water
 bottle and sweatpants, this e-sport is very physical!
 
-We have **weeklies every Wednesday 18.00-22.00**. If you're a student at Tampere
-University, you can just walk in during that time, the clubroom's doors are
-open. Otherwise, ask on the #tanssipelit channel on our Discord!
+Due to the *situation* at our clubroom, the weeklies have been moved to Bar & Cafe Lategame.
+We have **weeklies every Tuesday 18.00-22.00** (the image below is a bit outdated, we start
+at **18**, not **17**). You can ask more info on the #tanssipelit channel on our Discord!
+
+![lategame ITG weekly poster](assets/dancing_game_weekly.png)
 
 Beginners welcome! Our friendly community regularly helps new players get
 started. It's completely free even if you aren't a member, so you can just try
